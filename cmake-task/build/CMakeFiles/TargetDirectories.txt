@@ -1,0 +1,3 @@
+/home/caoyoujun/make-cmake-recurit/cmake-task/build/CMakeFiles/calculator.dir
+/home/caoyoujun/make-cmake-recurit/cmake-task/build/CMakeFiles/edit_cache.dir
+/home/caoyoujun/make-cmake-recurit/cmake-task/build/CMakeFiles/rebuild_cache.dir
